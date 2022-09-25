@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navinprakashraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navinprakashraja" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="navinprakashraja" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/navinprakashraja?trk=profile-badge">NavinPrakash Raja</a></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
