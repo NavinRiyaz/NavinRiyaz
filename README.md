@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Microsite Application Using Flutter**
+- 🔭 I’m currently working on **Sugar Department Web Project**
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
