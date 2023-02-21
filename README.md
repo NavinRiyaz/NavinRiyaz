@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FTS Tracking System With Reminder**
+- 🔭 I’m currently working on **Internal File Tracking System With QR Code**
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Deep Dive into Laravel**
 
 - 📝 I regularly write articles on [https://www.c-sharpcorner.com/members/navin-prakash2](https://www.c-sharpcorner.com/members/navin-prakash2)
 
-- 💬 Ask me about **Flutter, Google Cloud Platform, Cybersecurity, Android**
+- 💬 Ask me about **Flutter, Google Cloud Platform, Cybersecurity, Android, Laravel, Codeigniter, Symphony**
 
 - 📫 How to reach me **navinprakashronaldo@gmail.com**
 
